@@ -19,3 +19,4 @@ You can support the development of VisionCamera by [sponsoring **@mrousavy** on 
 Добавляем изменения для 2 ветки
 Придумываем второй коммит для 2 ветки
 Добавляем третий коммит для 2 ветки
+
